@@ -1,1 +1,11 @@
-
+region,sales,product
+East,120,A
+West,90,B
+East,200,C
+South,50,A
+North,300,B
+West,180,C
+South,130,A
+East,75,B
+North,220,C
+West,60,A
